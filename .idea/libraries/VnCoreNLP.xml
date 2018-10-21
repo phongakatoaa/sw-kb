@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="VnCoreNLP">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../VnCoreNLP" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../VnCoreNLP/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../VnCoreNLP/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../VnCoreNLP" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../VnCoreNLP" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../VnCoreNLP" recursive="false" type="SOURCES" />
+  </library>
+</component>
